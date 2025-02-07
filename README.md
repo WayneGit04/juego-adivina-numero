@@ -1,5 +1,6 @@
 # 🎮 Juego de Adivinar el Número  
-Este es un juego en Python donde el usuario debe adivinar un número entre 0 y 100.  
+
+Este es un juego en Python donde el usuario debe adivinar un número entre 0 y 100 usando una interfaz gráfica.
 
 ## 📌 Tecnologías Usadas  
 - Python 3  
@@ -8,4 +9,4 @@ Este es un juego en Python donde el usuario debe adivinar un número entre 0 y 1
 ## 🚀 Cómo Ejecutar  
 1. Clonar el repositorio:  
    ```sh
-   git clone https://github.com/tu-usuario/juego-adivina-numero.git
+   git clone https://github.com/WayneGit04/juego-adivina-numero.git
